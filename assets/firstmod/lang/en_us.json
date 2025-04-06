@@ -1,0 +1,24 @@
+{
+  "item.firstmod.hydrogen": "Hydrogen",
+  "item.firstmod.oxygen": "Oxygen",
+  "item.firstmod.aluminium": "Aluminiu",
+  "item.firstmod.argon": "Argon",
+  "item.firstmod.beriliu": "Beriliu",
+  "item.firstmod.bor": "Bor",
+  "item.firstmod.carbon": "Carbon",
+  "item.firstmod.clor": "Clor",
+  "item.firstmod.fluor": "Fluor",
+  "item.firstmod.helium": "Helium",
+  "item.firstmod.lithium": "Litiu",
+  "item.firstmod.magnesium": "Magneziu",
+  "item.firstmod.neon": "Neon",
+  "item.firstmod.phosphor": "Fosfor",
+  "item.firstmod.silicon": "Silicon",
+  "item.firstmod.sulfur": "Sulfur",
+  "item.firstmod.sodiu": "Sodiu",
+  "item.firstmod.azot": "Azot",
+
+  "block.firstmod.sulfur_block": "Sulfur Block",
+
+  "itemgroup.elements": "Periodic Elements"
+}

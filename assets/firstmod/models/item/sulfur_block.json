@@ -1,0 +1,6 @@
+{
+  "parent": "firstmod:block/sulfur_block",
+  "textures": {
+    "all": "firstmod:block/sulfur_block"
+  }
+}

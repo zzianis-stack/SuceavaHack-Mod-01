@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "firstmod:sulfur_block"
+    }
+  ],
+  "result": {
+    "item": "firstmod:sulfur",
+    "count": 9
+  }
+}
